@@ -1,0 +1,18 @@
+
+
+table, tr, td {padding: 4px; border: 1px solid #000; border-collapse: collapse;}
+
+caption {text-align: center; column-span: "2"; border: 1px solid #000; border-collapse: collapse; color: white; background-color: blue;}
+
+label {text-align: center;}
+
+button {float: right;}
+
+h4, p {display: inline;}
+
+.mng_header {text-align: center; column-span: "2"; border: 1px solid #000; border-collapse: collapse; color: white; background-color: blue;}
+
+.x {background-color: transparent; border-color: transparent; padding: 0px}
+
+.back2 {text-align: center;}
+
